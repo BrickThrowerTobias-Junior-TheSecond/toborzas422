@@ -1,0 +1,103 @@
+body
+{
+    background-color: #939c5f;
+}
+#h1
+{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #79804b;
+    border-radius: 150px;
+    text-align: center;
+}
+#rendeltetese
+{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #79804b;
+    border-radius: 150px;
+    text-align: center;
+    background-color: #939c5f;
+    width: fit-content;
+    margin: auto;
+}
+#feladatok
+{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #79804b;
+    border-radius: 150px;
+    text-align: center;
+    list-style: circle;
+    list-style-position: inside;
+    background-color: #939c5f;
+    width: 1500px;
+    margin: auto;
+}
+#tortenet
+{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #79804b;
+    border-radius: 150px;
+    text-align: center;
+    list-style: circle;
+    list-style-position: inside;
+    background-color: #939c5f;
+    width: fit-content;
+    margin: auto;
+}
+#csapatunnep
+{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #79804b;
+    border-radius: 150px;
+    text-align: center;
+    list-style: circle;
+    list-style-position: inside;
+    background-color: #939c5f;
+    width: fit-content;
+    margin: auto;
+}
+#elerhetosegek
+{
+    text-align: center;
+}
+#kep1
+{
+    height: 25%;
+    width: 25%;
+}
+#kep2
+{
+    height: 25%;
+    width: 25%;
+}
+#kep1div
+{
+    text-align: center;
+    padding-top: 10px;  
+}
+#kep2div
+{
+    text-align: center;
+}
+#jelentkezes
+{
+    width: 20%;
+    height: 50px;
+    background-color: #79804b;
+    text-align: center;
+    margin: auto;
+}
+#gomb
+{
+    text-align: center;
+    margin: auto;
+}
+#gomb_div
+{
+    text-align: center;
+    padding: 15px;
+}
